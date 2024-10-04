@@ -1,2 +1,2 @@
-# desktop-cleaner
-I hate having stuff all over my desktop.
+# Desktop Cleaner
+I hate having stuff on my desktop.
