@@ -1,4 +1,4 @@
-# Desktop Cleaner
+# Cleaner
 
 Python script to automatically clean the Desktop by moving files into datestamped directories under Documents. 
 
