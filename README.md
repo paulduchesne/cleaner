@@ -1,6 +1,6 @@
 # Cleaner
 
-Python script to automatically clean `Desktop` by moving files and folders into datestamped directories under `Documents`. 
+Python script to automatically clean `desktop/` by moving files and folders into datestamped directories under `documents/`. 
 
 Should be OS agnostic.
 
